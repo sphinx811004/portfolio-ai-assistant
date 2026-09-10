@@ -1,6 +1,6 @@
 # AI-Driven Portfolio Optimization & Risk Management Assistant
 
-Project by **Lakshita Chandrakar (23115053)** and **Pratyu Dahariya (23115074)**
+Project by **Lakshita Chandrakar (23115053)** and **Pratyu Dehariya (23115073)**
 Department of Computer Science and Engineering, NIT Raipur
 
 See `docs/` for full project documentation and architecture diagram.
