@@ -1,0 +1,35 @@
+# Market data
+yfinance
+alpha_vantage
+
+# RAG
+faiss-cpu
+sentence-transformers
+chromadb
+
+# RL / optimization
+finrl
+stable-baselines3
+PyPortfolioOpt
+
+# Risk & performance metrics
+empyrical
+quantstats
+
+# Backend / API
+fastapi
+uvicorn
+pydantic
+
+# Frontend / demo
+streamlit
+
+# Core
+pandas
+numpy
+scikit-learn
+pyyaml
+python-dotenv
+
+# Testing
+pytest

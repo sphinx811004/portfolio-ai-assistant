@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Env / secrets
+.env
+
+# Data
+data/raw/*
+data/processed/*
+data/cache/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/cache/.gitkeep
+
+# Models / checkpoints
+*.zip
+*.pkl
+checkpoints/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+
+# documentation
+docs/documentationTillNow.txt
+docs/heuristicsValuesThatShouldBeChangedforbettertesting.txt
